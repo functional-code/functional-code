@@ -45,12 +45,20 @@
 
 ---
 
-### 📊 GitHub Stats
+## Stats
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Functionalloop&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Functionalloop&theme=radium&hide_border=true" alt="GitHub Streak" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=functionalloop&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=functionalloop&layout=compact&hide_border=true&theme=github_dark&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=functionalloop&hide_border=true&background=0d0d0d&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=333333&sideNums=ffffff&currStreakNum=ffffff"/>
 </div>
 
 
