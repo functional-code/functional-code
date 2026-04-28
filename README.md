@@ -48,22 +48,22 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Functionalloop&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Functionalloop&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the two image URLs above with your actual GitHub handle to make the stats cards work!)*
+*(Note: Replace `Functionalloop` in the two image URLs above with your actual GitHub handle to make the stats cards work!)*
 
 ---
 
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:Tanishq@funtionalloop.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+  <a href="https://www.linkedin.com/in/tanishq-naik-244723374/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
