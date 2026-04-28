@@ -53,7 +53,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Functionalloop&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
-*(Note: Replace `Functionalloop` in the two image URLs above with your actual GitHub handle to make the stats cards work!)*
 
 ---
 
