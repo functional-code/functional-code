@@ -61,7 +61,20 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=functionalloop&hide_border=true&background=0d0d0d&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=333333&sideNums=ffffff&currStreakNum=ffffff"/>
 </div>
 
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/functionalloop/functionalloop/main/assets/github-snake.svg" alt="Snake animation"/>
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=functionalloop&style=flat-square&color=ffffff&label=visitors" alt="Profile views"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=100&section=footer" width="100%"/>
+</div>
 ---
 
 ### 📫 Let's Connect
