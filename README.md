@@ -13,7 +13,7 @@
 * 🧠 Passionate about leveraging AI for social impact, specifically using Computer Vision to build accessibility tools like sign language detectors and "No Phone Zone" systems.
 * ⚔️ I'm a competitive problem solver grinding **Data Structures and Algorithms (DSA) in Java**.
 * 🏆 Active hackathon participant—always eager to ideate, collaborate, and execute under pressure.
-* 🗣️ Happy to collaborate in English, Hindi, or Gujarati!
+* 🗣️ Happy to collaborate in English , hindi , russian and konkaki
 
 ---
 
